@@ -31,6 +31,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" title="npm" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/babel/original.svg" title="babel" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/eslint/original.svg" title="eslint" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/webpack/original.svg" title="webpack" width="40" height="40">&nbsp;
 
 ---
 
