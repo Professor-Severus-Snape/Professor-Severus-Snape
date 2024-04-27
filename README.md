@@ -25,16 +25,17 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" title="npm" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/babel/original.svg" title="babel" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/eslint/original.svg" title="eslint" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/webpack/original.svg" title="webpack" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="html" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="css" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" title="sass" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="figma" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="git" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/babel/original.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/eslint/original.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/webpack/original.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
+<img src="https://www.svgrepo.com/show/353419/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
 
 ---
 
