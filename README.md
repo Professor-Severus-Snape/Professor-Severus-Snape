@@ -35,6 +35,7 @@
 <img src="https://devicon-website.vercel.app/api/babel/original.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
 <img src="https://devicon-website.vercel.app/api/eslint/original.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
 <img src="https://devicon-website.vercel.app/api/webpack/original.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/jest/plain.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
 <img src="https://www.svgrepo.com/show/353419/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
 
 ---
