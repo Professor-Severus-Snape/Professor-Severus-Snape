@@ -31,11 +31,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="figma" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="git" width="40" height="40">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40">&nbsp;
 <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
 <img src="https://devicon-website.vercel.app/api/babel/original.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
 <img src="https://devicon-website.vercel.app/api/eslint/original.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/webpack/original.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
 <img src="https://devicon-website.vercel.app/api/jest/plain.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
+<img src="https://devicon-website.vercel.app/api/webpack/original.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" title="vite" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="react" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="react router" title="react router" width="40" height="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" title="redux" width="40" height="40">&nbsp;
 <img src="https://www.svgrepo.com/show/353419/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
 
 ---
