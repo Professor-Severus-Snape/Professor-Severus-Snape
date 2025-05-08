@@ -25,23 +25,25 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="html" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="css" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" title="sass" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="figma" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="git" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/babel/original.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/eslint/original.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/jest/plain.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
-<img src="https://devicon-website.vercel.app/api/webpack/original.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" title="vite" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="react" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="react router" title="react router" width="40" height="40">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" title="redux" width="40" height="40">&nbsp;
-<img src="https://www.svgrepo.com/show/353419/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
+<img src="./devicons/html.svg" alt="html" title="html" width="40" height="40">&nbsp;
+<img src="./devicons/css.svg" alt="css" title="css" width="40" height="40">&nbsp;
+<img src="./devicons/sass.svg" alt="sass" title="sass" width="40" height="40">&nbsp;
+<img src="./devicons/figma.svg" alt="figma" title="figma" width="40" height="40">&nbsp;
+<img src="./devicons/vscode.svg" alt="vscode" title="vscode" width="40" height="40">&nbsp;
+<img src="./devicons/git.svg" alt="git" title="git" width="40" height="40">&nbsp;
+<img src="./devicons/javascript.svg" alt="javascript" title="javascript" width="40" height="40">&nbsp;
+<img src="./devicons/typescript.svg" alt="typescript" title="typescript" width="40" height="40">&nbsp;
+<img src="./devicons/npm.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
+<img src="./devicons/babel.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
+<img src="./devicons/eslint.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
+<img src="./devicons/jest.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
+<img src="./devicons/webpack.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
+<img src="./devicons/vite.svg" alt="vite" title="vite" width="40" height="40">&nbsp;
+<img src="./devicons/react.svg" alt="react" title="react" width="40" height="40">&nbsp;
+<img src="./devicons/reactrouter.svg" alt="react router" title="react router" width="40" height="40">&nbsp;
+<img src="./devicons/redux.svg" alt="redux" title="redux" width="40" height="40">&nbsp;
+<img src="./devicons/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
+<img src="./devicons/render.svg" alt="render" title="render" width="40" height="40">&nbsp;
 
 ---
 
@@ -49,10 +51,8 @@
 
 <div id="stat" align="center">
   <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Professor-Severus-Snape&show_icons=true&theme=dracula" alt="">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Professor-Severus-Snape&show_icons=true&theme=dracula" alt="profile details">
   </div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Professor-Severus-Snape&show_icons=true&theme=dracula" alt="">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Professor-Severus-Snape&show_icons=true&theme=dracula" alt="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Professor-Severus-Snape&show_icons=true&theme=dracula" alt="top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Professor-Severus-Snape&show_icons=true&theme=dracula" alt="stats">
 </div>
-
----
