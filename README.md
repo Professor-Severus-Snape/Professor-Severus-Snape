@@ -3,23 +3,14 @@
   <h3>Frontend Developer from Moscow</h3>
 </div>
 
-<!-- <div id="socials" align="center">
-  <a href="https://t.me/Severus_Snape_prof">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://vk.com/julia_fokanova">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk">
-  </a>
-</div> -->
-
 ### About me
-- 🌱 I'm currently both a student and an expert at [Netology](https://netology.ru).
-- 👩‍🎓 I study hard as a student to improve my hard skills in frontend development.
-- 👩‍🏫 I regularly help other students with their homework as an expert.
-- 📂 And these are all my [Certificates](https://disk.yandex.ru/d/wJtFgtU7jPiKrg).
+- 🌱 I'm currently both a graduate and a mentor at [Netology](https://netology.ru).
+- 👩‍🎓 I worked hard to develop my frontend skills during my studies and keep improving them now.
+- 👩‍🏫 I regularly help other students with their homework as well as their personal projects.
+- 📄 [Here](https://professor-severus-snape.github.io/portfolio) you may find out more about my experience.
+- 📂 And these are all my [Certificates](https://disk.yandex.ru/d/wJtFgtU7jPiKrg) and [Recommendations](https://disk.yandex.ru/d/M6-rVg96TjFUbg).
 - 📨 Please reach me by [Telegram](https://t.me/Severus_Snape_prof) or [VK](https://vk.com/julia_fokanova).
-- 🌍 My mother tongue is Russian, but I can also speak English.
-<!-- - 📄 Here you may find out more about my experiences [CV](ссылка на мой сайт с резюме). -->
+- 🌍 I am a native Russian speaker with a good command of English.
 
 ---
 
