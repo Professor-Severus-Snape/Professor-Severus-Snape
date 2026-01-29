@@ -7,8 +7,8 @@
 - 🌱 I'm currently both a graduate and a mentor at [Netology](https://netology.ru).
 - 👩‍🎓 I worked hard to develop my frontend skills during my studies and keep improving them now.
 - 👩‍🏫 I regularly help other students with their homework as well as their personal projects.
-- 📄 [Here](https://professor-severus-snape.github.io/portfolio) you may find out more about my experience.
-- 📂 And these are all my [Certificates](https://disk.yandex.ru/d/wJtFgtU7jPiKrg) and [Recommendations](https://disk.yandex.ru/d/M6-rVg96TjFUbg).
+- 🌐 [Here](https://professor-severus-snape.github.io/portfolio) you may find out more about me and my experience.
+- 📂 And these are all my [Certificates](https://disk.yandex.ru/d/wJtFgtU7jPiKrg) and [Recommendations](https://disk.yandex.ru/i/AaDmonRPuRYbig).
 - 📨 Please reach me by [Telegram](https://t.me/Severus_Snape_prof) or [VK](https://vk.com/julia_fokanova).
 - 🌍 I am a native Russian speaker with a good command of English.
 
