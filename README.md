@@ -4,13 +4,17 @@
 </div>
 
 ### About me
-- 🌱 I'm currently both a graduate and a mentor at [Netology](https://netology.ru).
-- 👩‍🎓 I worked hard to develop my frontend skills during my studies and keep improving them now.
-- 👩‍🏫 I regularly help other students with their homework as well as their personal projects.
-- 🌐 [Here](https://professor-severus-snape.github.io/portfolio) you may find out more about me and my experience.
-- 📂 And these are all my [Certificates](https://disk.yandex.ru/d/wJtFgtU7jPiKrg) and [Recommendations](https://disk.yandex.ru/i/AaDmonRPuRYbig).
-- 📨 Please reach me by [Telegram](https://t.me/Severus_Snape_prof) or [VK](https://vk.com/julia_fokanova).
-- 🌍 I am a native Russian speaker with a good command of English.
+
+- 💻 Building web applications with a focus on clarity, scalability, and long-term maintainability
+- 🚀 Able to take features from idea to production: designing structure, working with APIs, and managing state
+- 🔍 Not just making things work — thinking about architecture, readability, and future support
+- ⚡ Paying attention to performance, UX, and the small details that shape the overall product
+- 👩‍🏫 Strong background in code review and mentoring, improving both code quality and developer approach
+- 🤝 Comfortable working in a team, discussing solutions, and making thoughtful technical decisions
+- 🌱 Continuously learning and quickly adapting to new tools, environments, and challenges
+- 🌐 Check out my [portfolio](https://professor-severus-snape.github.io/portfolio)
+- 📨 Feel free to reach me via [Telegram](https://t.me/Severus_Snape_prof) or [VK](https://vk.com/julia_fokanova)
+- 🌍 Russian (native) · English (B2)
 
 ---
 
@@ -20,13 +24,14 @@
 <img src="./devicons/css.svg" alt="css" title="css" width="40" height="40">&nbsp;
 <img src="./devicons/sass.svg" alt="sass" title="sass" width="40" height="40">&nbsp;
 <img src="./devicons/figma.svg" alt="figma" title="figma" width="40" height="40">&nbsp;
-<img src="./devicons/vscode.svg" alt="vscode" title="vscode" width="40" height="40">&nbsp;
 <img src="./devicons/git.svg" alt="git" title="git" width="40" height="40">&nbsp;
 <img src="./devicons/javascript.svg" alt="javascript" title="javascript" width="40" height="40">&nbsp;
 <img src="./devicons/typescript.svg" alt="typescript" title="typescript" width="40" height="40">&nbsp;
 <img src="./devicons/npm.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
+<img src="./devicons/yarn.svg" alt="yarn" title="yarn" width="40" height="40">&nbsp;
 <img src="./devicons/babel.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
 <img src="./devicons/eslint.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
+<img src="./devicons/prettier.svg" alt="prettier" title="prettier" width="40" height="40">&nbsp;
 <img src="./devicons/jest.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
 <img src="./devicons/webpack.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
 <img src="./devicons/vite.svg" alt="vite" title="vite" width="40" height="40">&nbsp;
@@ -35,8 +40,9 @@
 <img src="./devicons/redux.svg" alt="redux" title="redux" width="40" height="40">&nbsp;
 <img src="./devicons/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
 <img src="./devicons/render.svg" alt="render" title="render" width="40" height="40">&nbsp;
-
----
+<img src="./devicons/postman.svg" alt="postman" title="postman" width="40" height="40">&nbsp;
+<img src="./devicons/nodejs.svg" alt="node.js" title="node.js" width="40" height="40">&nbsp;
+<img src="./devicons/docker.svg" alt="docker" title="docker" width="40" height="40">&nbsp;
 
 ### My stat
 
