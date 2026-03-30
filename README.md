@@ -29,7 +29,6 @@
 <img src="./devicons/typescript.svg" alt="typescript" title="typescript" width="40" height="40">&nbsp;
 <img src="./devicons/npm.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
 <img src="./devicons/yarn.svg" alt="yarn" title="yarn" width="40" height="40">&nbsp;
-<img src="./devicons/babel.svg" alt="babel" title="babel" width="40" height="40">&nbsp;
 <img src="./devicons/eslint.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
 <img src="./devicons/prettier.svg" alt="prettier" title="prettier" width="40" height="40">&nbsp;
 <img src="./devicons/jest.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
