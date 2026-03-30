@@ -12,7 +12,7 @@
 - 👩‍🏫 Strong background in code review and mentoring, improving both code quality and developer approach
 - 🤝 Comfortable working in a team, discussing solutions, and making thoughtful technical decisions
 - 🌱 Continuously learning and quickly adapting to new tools, environments, and challenges
-- 🌐 Check out my [portfolio](https://professor-severus-snape.github.io/portfolio)
+- 🔥 Check out my [portfolio](https://professor-severus-snape.github.io/portfolio)
 - 💬 Feel free to reach me via [Telegram](https://t.me/Severus_Snape_prof) or [VK](https://vk.com/julia_fokanova)
 - 🌍 Russian (native) · English (B2)
 
