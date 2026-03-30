@@ -18,30 +18,26 @@
 
 ---
 
-### Languages and tools
+### Skills & Tools
 
-<img src="./devicons/html.svg" alt="html" title="html" width="40" height="40">&nbsp;
-<img src="./devicons/css.svg" alt="css" title="css" width="40" height="40">&nbsp;
-<img src="./devicons/sass.svg" alt="sass" title="sass" width="40" height="40">&nbsp;
-<img src="./devicons/figma.svg" alt="figma" title="figma" width="40" height="40">&nbsp;
-<img src="./devicons/git.svg" alt="git" title="git" width="40" height="40">&nbsp;
-<img src="./devicons/javascript.svg" alt="javascript" title="javascript" width="40" height="40">&nbsp;
-<img src="./devicons/typescript.svg" alt="typescript" title="typescript" width="40" height="40">&nbsp;
-<img src="./devicons/npm.svg" alt="npm" title="npm" width="40" height="40">&nbsp;
-<img src="./devicons/yarn.svg" alt="yarn" title="yarn" width="40" height="40">&nbsp;
-<img src="./devicons/eslint.svg" alt="eslint" title="eslint" width="40" height="40">&nbsp;
-<img src="./devicons/prettier.svg" alt="prettier" title="prettier" width="40" height="40">&nbsp;
-<img src="./devicons/jest.svg" alt="jest" title="jest" width="40" height="40">&nbsp;
-<img src="./devicons/webpack.svg" alt="webpack" title="webpack" width="40" height="40">&nbsp;
-<img src="./devicons/vite.svg" alt="vite" title="vite" width="40" height="40">&nbsp;
-<img src="./devicons/react.svg" alt="react" title="react" width="40" height="40">&nbsp;
-<img src="./devicons/reactrouter.svg" alt="react router" title="react router" width="40" height="40">&nbsp;
-<img src="./devicons/redux.svg" alt="redux" title="redux" width="40" height="40">&nbsp;
-<img src="./devicons/appveyor.svg" alt="appveyor" title="appveyor" width="40" height="40">&nbsp;
-<img src="./devicons/render.svg" alt="render" title="render" width="40" height="40">&nbsp;
-<img src="./devicons/postman.svg" alt="postman" title="postman" width="40" height="40">&nbsp;
-<img src="./devicons/nodejs.svg" alt="node.js" title="node.js" width="40" height="40">&nbsp;
-<img src="./devicons/docker.svg" alt="docker" title="docker" width="40" height="40">&nbsp;
+**Frontend:**  
+- React • TypeScript • Redux Toolkit • React Router  
+- HTML • CSS (Flexbox, Grid, responsive, animations)  
+- BEM • CSS Modules • SASS/SCSS • CSS-in-JS  
+- JavaScript (ES6+)  
+- Jest • ESLint • Prettier  
+- Webpack • Vite  
+
+**Backend:**  
+- Node.js • Express.js  
+- REST APIs • Feature development  
+- Microservices • Docker Compose  
+
+**DevOps & Tools:**  
+- Git • npm • yarn  
+- GitHub Actions (CI/CD) • Docker  
+
+---
 
 ### My stat
 
